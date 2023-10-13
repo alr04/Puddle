@@ -1,2 +1,4 @@
 # Puddle
-## Basic Online MarketPlace built using Python and the Django Framework
+Basic Online MarketPlace built using Python and the Django Framework 
+TODO: Implement Logout
+
